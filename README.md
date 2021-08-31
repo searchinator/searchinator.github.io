@@ -8,11 +8,11 @@
 
 | Name                | Email                       |
 |---------------------|-----------------------------|
-| Rupin Jairaj        | rxj200003@utdallas.edu      |
-| Jonathan Perry      | jperry@utdallas.edu         |
-| Arham Siddiqui      | arham.siddiqui@utdallas.edu |
-| Wenlong Yang        | wxy200000@utdallas.edu      |
-| Tanvi Krishna Patil | tkp190001@utdallas.edu      |
+| Rupin Jairaj        | [rxj200003@utdallas.edu](mailto:rxj200003@utdallas.edu)           |
+| Jonathan Perry      | [jperry@utdallas.edu](mailto:jperry@utdallas.edu)                 |
+| Arham Siddiqui      | [arham.siddiqui@utdallas.edu](mailto:arham.siddiqui@utdallas.edu) |
+| Wenlong Yang        | [wxy200000@utdallas.edu](mailto:wxy200000@utdallas.edu)           |
+| Tanvi Krishna Patil | [tkp190001@utdallas.edu](mailto:tkp190001@utdallas.edu)           |
 
 Submitted for: **SE 6362**
 
