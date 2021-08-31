@@ -2,7 +2,7 @@
 
 # Searchinator - A web search engine
 
-### Click [here](#) to download our preliminary project plan.
+### Click [here](./Project Rainbow - Preliminary Project Plan.pdf) to download our preliminary project plan.
 
 ## Team of 5: Project Rainbow
 
