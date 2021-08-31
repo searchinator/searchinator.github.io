@@ -1,5 +1,3 @@
-<center>
-  
 ![](https://i.imgur.com/cLsn26E.jpeg)
 
 # Searchinator - A web search engine
@@ -16,7 +14,6 @@
 | Wenlong Yang        | wxy200000@utdallas.edu      |
 | Tanvi Krishna Patil | tkp190001@utdallas.edu      |
 
-Submitted for: <b>SE 6362</b>
+Submitted for: **SE 6362**
 
 Phase 0
-</center>
