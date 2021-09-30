@@ -4,7 +4,7 @@
 
 ### Click [here](./preliminaryProjectPlan.pdf) to download our preliminary project plan.
 
-### Click [here](https://docs.google.com/presentation/d/1Z39I124W2o9b24dh8XEqWYbzgFOcfTBwWvVViPaYMsA/edit?usp=sharing) to reach our Interim project 1 presentation.
+### Click [here](https://docs.google.com/presentation/d/1Z39I124W2o9b24dh8XEqWYbzgFOcfTBwWvVViPaYMsA/edit?usp=sharing) to view our Interim project 1 presentation.
 
 ## Team of 5: Project Rainbow
 
