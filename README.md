@@ -6,6 +6,12 @@
 
 ### Click [here](https://docs.google.com/presentation/d/1Z39I124W2o9b24dh8XEqWYbzgFOcfTBwWvVViPaYMsA/edit?usp=sharing) to view our Interim project 1 presentation.
 
+### Click [here](https://docs.google.com/presentation/d/17r9bMJcQExl_UjOVb3PsD4E1PDe4RbNLqFps1E-3Djs/edit) to view our Project 2 presentation.
+
+### Click [here](./finalProjectSubmission.zip) to download our final project plan.
+
+### Click [here](https://github.com/searchinator/search-engine) to download our codebase.
+
 ## Team of 5: Project Rainbow
 
 | Name                | Email                       |
